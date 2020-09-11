@@ -36,7 +36,7 @@ body {
 }
 
 /* consolidated header div, ul, li extra formatting*/
-.header div ul li {
+.header ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
